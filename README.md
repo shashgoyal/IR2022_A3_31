@@ -4,7 +4,7 @@
 ### Shashwat Goyal 2019447
 
 #### About the dataset:
-Arxiv GR-QC (General Relativity and Quantum Cosmology) collaboration network is from the e-print arXiv and covers scientific collaborations between authors papers submitted to General Relativity and Quantum Cosmology category. If an author i co-authored a paper with author j, the graph contains a undirected edge from i to j. If the paper is co-authored by k authors this generates a completely connected (sub)graph on k nodes.
+The e-print arXiv GR-QC (General Relativity and Quantum Cosmology) collaboration network covers scientific partnerships between authors of works submitted to the General Relativity and Quantum Cosmology category. The graph has an ***undirected edge*** from I to j if author I co-authored a paper with author j. If there are k authors on the article, this results in a totally linked (sub)graph with k nodes.
 
-The data covers papers in the period from January 1993 to April 2003 (124 months). It begins within a few months of the inception of the arXiv, and thus represents essentially the complete history of its GR-QC section.
+The information pertains to publications published between January 1993 and April 2003. (124 months). It starts only a few months after the arXiv was founded, and so covers the entirety of the GR-QC section's history.
 <p>taken from https://snap.stanford.edu/data/ca-GrQc.html</p>
